@@ -152,6 +152,7 @@ nav ul{
     .container{
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);   
+        width: 50vw;
     }
     .gameInfo{
         justify-content: space-around;
